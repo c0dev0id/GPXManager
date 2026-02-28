@@ -36,6 +36,16 @@ GPX Files and PDF Files should be shown as cards.
     - Upload Date
     - Number of Pages
 
+When a user opens a PDF, the pdf should be displayed.
+When the user opens a GPX file, a GPX file viewer should open:
+- Metadata at the top
+- route / track preview (will be implemented later)
+- List of routes + route points
+- List of tracks
+- List of Waypoints
+
+It is possible to delete and rename routes, route points, tracks, waypoints.
+
 **Location Library**
 
 The location library can contain the following file types:
