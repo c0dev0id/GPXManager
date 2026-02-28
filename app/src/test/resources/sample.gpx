@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPXManager Test"
+     xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Test Route</name>
+    <time>2024-06-15T10:30:00Z</time>
+  </metadata>
+  <wpt lat="47.3769" lon="8.5417">
+    <name>Zurich</name>
+  </wpt>
+  <wpt lat="46.9480" lon="7.4474">
+    <name>Bern</name>
+  </wpt>
+  <rte>
+    <name>Route 1</name>
+    <rtept lat="47.3769" lon="8.5417" />
+    <rtept lat="47.0502" lon="8.3093" />
+    <rtept lat="46.9480" lon="7.4474" />
+  </rte>
+  <trk>
+    <name>Track 1</name>
+    <trkseg>
+      <trkpt lat="47.3769" lon="8.5417" />
+      <trkpt lat="47.3500" lon="8.5000" />
+      <trkpt lat="47.3000" lon="8.4500" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Track 2</name>
+    <trkseg>
+      <trkpt lat="46.9480" lon="7.4474" />
+      <trkpt lat="46.9500" lon="7.4500" />
+    </trkseg>
+  </trk>
+</gpx>
