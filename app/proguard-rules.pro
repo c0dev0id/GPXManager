@@ -1,0 +1,1 @@
+# GPX Manager ProGuard Rules
